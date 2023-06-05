@@ -1,8 +1,8 @@
 {
-  "name": "thomson",
+  "name": "",
   "version": "1.0.0",
-  "description": "thomson free bootstrap portfolio template",
-  "author": "Themefisher",
+  "description": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",

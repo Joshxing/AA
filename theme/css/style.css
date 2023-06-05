@@ -1101,3 +1101,8 @@ main.rows {
 .solid {
   background-color: #526D82; /* Replace with your desired background color */
 }
+
+
+.social-media-icons a {
+  margin-right: 10px; /* Adjust the spacing as needed */
+}
